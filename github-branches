@@ -1,0 +1,9 @@
+git branch -vv
+  bug-fix-typo 40f8954 fix: typo
+* main         63e26c5 [origin/main] docs: add merge proof output (task 7)
+
+git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
